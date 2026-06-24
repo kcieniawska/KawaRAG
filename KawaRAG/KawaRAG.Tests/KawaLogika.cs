@@ -1,5 +1,5 @@
 // KawaLogika.cs
-// Logika biznesowa kawiarni "Bit & Bean" wyodrębniona z Program.cs
+// Logika biznesowa kawiarni "Grande Strategia" wyodrębniona z Program.cs
 // w celu umożliwienia testowania jednostkowego.
 
 namespace KawaRAG.Tests;
